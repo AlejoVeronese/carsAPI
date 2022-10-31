@@ -1,1 +1,1 @@
-API REST about car and car sales. Build using NodeJS and MONGO A
+API REST sobre autos y ventas de autos. Construida usando NodeJS y Mongo Atlas
